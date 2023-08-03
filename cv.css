@@ -1,0 +1,30 @@
+/* .container{
+    border: 2px solid rgb(69, 69, 234);
+} */
+*{
+    margin: 0;
+    padding: 0;
+}
+.first {
+ height: 20rem;
+    padding-left: 3px;
+    background-color:  rgb(129, 129, 239);
+line-height: 30px;
+
+
+}
+#image{
+    border-radius: 50%;
+    height: 12rem;
+    width: 12rem;
+    margin-top: 12px;
+   
+}
+.obj{
+      background-color: rgb(201, 212, 239);
+      /* padding: 0%; */
+      line-height: 2rem;
+}
+.list{
+  padding-left:23px ;
+}
